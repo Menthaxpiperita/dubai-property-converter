@@ -1,4 +1,4 @@
-import PropertyConverter from '@/components/PropertyConverter'
+import PropertyConverter from '../components/PropertyConverter'
 
 export default function Home() {
   return <PropertyConverter />
